@@ -82,6 +82,16 @@ A continuación de manera práctica vamos a realizar operaciones aritméticas co
 
 3.2.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
+![image](https://user-images.githubusercontent.com/85178869/133112547-9bbc1da0-0f83-44b5-b055-28955f49c2fd.png)
+
+![image](https://user-images.githubusercontent.com/85178869/133112853-0639bd3b-c2df-4704-8820-ec25639ca312.png)
+
+![image](https://user-images.githubusercontent.com/85178869/133112960-59a54ad4-ef3c-4539-a171-254985da2b49.png)
+
+![image](https://user-images.githubusercontent.com/85178869/133113063-8305a884-130c-4874-b723-95ae62e9e9ee.png)
+
+4.2.1  Resuelva las operaciones anteriores por medio de la calculadora y compare
+resultados.
 
 # 5 VIDEO
 
